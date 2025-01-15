@@ -25,3 +25,10 @@ str5 = "hello world"
 print(str5.count("o"))
 
 
+#wap to input users name and print its length
+'''input("Enter your name:")
+print("Length of your name is",len(name))'''
+
+#wap to find the occurance of $ in a string
+str6 = "$i $am $prekshya"
+print(str6.count("$"))
